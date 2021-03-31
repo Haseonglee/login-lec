@@ -12,15 +12,15 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start":"node ./bin/www.js",
+    "start": "node ./bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "sunglee ha",
   "license": "MIT",
-  "homepage":"",
-  "repository":{
-    "type":"git",
-    "url":""
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
   }
 }
